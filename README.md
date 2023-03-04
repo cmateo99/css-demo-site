@@ -1,3 +1,6 @@
+#My edits
+I have met the acceptance criteria in which I have made the website and code more accessible and the webpage matches the model.
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
