@@ -72,22 +72,13 @@ main {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
 .bfit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.bfit h3 h4 h5 {
+.bfit h5 h6 h7{
+    font-size: 36;
     margin-bottom: 10px;
     text-align: center;
 }
@@ -107,33 +98,16 @@ main {
     color: #ffffff;
 }
 
-.online-reputation-management {
+.services h2 h3 h4{
     margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    font-size: 48px;
 }
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
+  
 .services img {
     max-height: 200px;
 }
 
-.services h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-  
+
 .services p {
     margin: 20px 0 0 0;
 }
