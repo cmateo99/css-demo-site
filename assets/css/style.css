@@ -72,18 +72,48 @@ main {
     background-color: #2589bd;
 }
 
-.bfit {
+.benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.bfit h5 h6 h7{
-    font-size: 36;
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.bfit img {
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -98,9 +128,9 @@ main {
     color: #ffffff;
 }
 
-.services h2 h3 h4{
+.services h2{
     margin-bottom: 20px;
-    font-size: 48px;
+    font-size: 36px;
 }
   
 .services img {
