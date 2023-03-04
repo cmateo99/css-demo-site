@@ -54,15 +54,6 @@ a {
 /*Image End*/
 
 /* Start of main content*/
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 main {
     width: 75%;
@@ -86,7 +77,7 @@ main {
     color: #ffffff;
 }
 
-.benefit-brand {
+.bfit {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -96,34 +87,12 @@ main {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.bfit h3 h4 h5 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.bfit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -168,7 +137,15 @@ main {
 .services p {
     margin: 20px 0 0 0;
 }
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
 
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 /*End of left column*/
 /* End of main content*/
 .footer {
